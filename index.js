@@ -1,4 +1,4 @@
 module.exports = function () {
-  console.log('You are Uber-talented');
+  console.info('You are Uber-talented');
 };
 
